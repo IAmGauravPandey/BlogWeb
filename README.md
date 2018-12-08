@@ -6,4 +6,4 @@ A blogging site controlled by admin.
 ### To run on localhost 
 - "python manage.py runserver"
 
-## For admin login add /admin in homepage url
+## For admin login add '/admin' in homepage url
