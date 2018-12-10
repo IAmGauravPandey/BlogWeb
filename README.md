@@ -1,4 +1,4 @@
-# my-first-blog
+# BlogWeb
 A blogging site controlled by admin.
 
 ### To create a admin
